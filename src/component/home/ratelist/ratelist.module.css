@@ -1,0 +1,26 @@
+.maindiv{
+    background-color: black;
+    width: 95%;
+    margin: 0 auto;
+}
+.headdiv{
+background-color: black;
+
+}
+.head{
+    font-size: 3rem;
+    background-color: black;
+    color:  #ffc13b;
+    margin: 20px 20px;
+    text-align: center;
+
+}
+.head_y{
+    font-size: 2rem;
+    background-color: black;
+    color:  #ffc13b;
+    margin: 0px 20px;
+    margin-top: 10px;
+    text-align: center;
+
+}

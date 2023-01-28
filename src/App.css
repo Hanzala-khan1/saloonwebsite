@@ -1,4 +1,95 @@
-*{
-  margin: 0px ;
-  padding: 0px ;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(16, 15, 15);
+
+}
+
+
+/* /////////////////////////  Nabar css //////////////////// */
+.res {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(0, 0, 0);
+}
+
+.main {
+  width: 90% !important;
+  margin: auto;
+  background-color: black;
+  padding-top: 3rem;
+
+}
+
+.sec {
+  padding-bottom: 30px;
+  background-color: black;
+}
+
+.sta {
+  background-color: black !important;
+  border: 3px solid #ffc13b !important;
+  color: #ffc13b !important;
+}
+
+.stb {
+  background-color: #ffc13b !important;
+  border: 3px solid white !important;
+  background: #ffc13b !important;
+  color: black !important;
+  font-weight: 500 !important;
+}
+
+.img {
+  height: 80vh !important;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+  border: 5px solid #ffc13b;
+}
+
+.imga {
+  height: 80vh !important;
+  opacity: 0.7;
+}
+
+
+
+/*  media query start here */
+
+@media (max-width:768px) {
+
+  .main {
+    background-color: black;
+    padding: 1rem 1rem;
+  }
+}
+
+@media (max-width:786px) {
+
+  .res {
+    width: 100%;
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    top: 3rem;
+    left: 0%;
+    align-items: center;
+    text-align: center;
+    z-index: 999999;
+
+  }
+
+  .res.active {
+    display: flex;
+
+  }
+
+
+
 }

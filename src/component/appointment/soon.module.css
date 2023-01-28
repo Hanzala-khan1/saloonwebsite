@@ -1,0 +1,20 @@
+.maindiv{
+ width: 100%;
+ height: 100vh;
+ background-color: rgb(6, 5, 5);
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.maindiv h1{
+font-size: 2.5rem;
+color: #ffc13b;
+background: none;
+}
+@media (max-width:375px) {
+    .maindiv h1{
+        font-size: 1.5rem;
+        color: #ffc13b;
+        background: none;
+        }
+}
