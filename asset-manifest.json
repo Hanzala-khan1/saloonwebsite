@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saloonwebsite/static/css/main.1bfd5c89.css",
+    "main.js": "/saloonwebsite/static/js/main.04f11978.js",
+    "static/js/787.dde20c4c.chunk.js": "/saloonwebsite/static/js/787.dde20c4c.chunk.js",
+    "static/media/video 3.mp4": "/saloonwebsite/static/media/video 3.0e9d0191c664079ed130.mp4",
+    "static/media/3.jpg": "/saloonwebsite/static/media/3.fd429a16f54495f9e064.jpg",
+    "static/media/2.jpg": "/saloonwebsite/static/media/2.116f2094422eac752d23.jpg",
+    "static/media/video 1.mp4": "/saloonwebsite/static/media/video 1.dd0a4040cbecccc3ac87.mp4",
+    "static/media/img.jpg": "/saloonwebsite/static/media/img.2cefed67365a31c38827.jpg",
+    "static/media/5.jpg": "/saloonwebsite/static/media/5.8d4711bdfcc2552320c7.jpg",
+    "static/media/1.jpg": "/saloonwebsite/static/media/1.9faf471961179bbc4a47.jpg",
+    "index.html": "/saloonwebsite/index.html",
+    "main.1bfd5c89.css.map": "/saloonwebsite/static/css/main.1bfd5c89.css.map",
+    "main.04f11978.js.map": "/saloonwebsite/static/js/main.04f11978.js.map",
+    "787.dde20c4c.chunk.js.map": "/saloonwebsite/static/js/787.dde20c4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bfd5c89.css",
+    "static/js/main.04f11978.js"
+  ]
+}
